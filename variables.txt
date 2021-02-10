@@ -1,0 +1,13 @@
+var famousPerson = "Matthew Mercer";
+var isActive = true;
+
+famousPerson = "Beyonce";
+
+var num3 = 3;
+var num9 = 12;
+var sum = (num3 + num9);
+
+var animals = ["lizard", "cat", "crow"];
+animals.shift();
+
+console.log(famousPerson.length);
