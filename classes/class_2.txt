@@ -1,0 +1,15 @@
+SchoolBus class
+
+Attributes
+color (string)
+doorOpen (boolean)
+numberOfStops (integer)
+studentsOnboard (boolean)
+pickupLocations (array)
+
+Methods
+repaint (changes color)
+closeDoor (changes doorOpen to false)
+addNewStop (adds 1 to numberOfStops)
+dropOff (changes studentsOnboard to false)
+changeRoute (modifies pickupLocations array)
