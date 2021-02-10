@@ -1,0 +1,15 @@
+Student (class)
+
+Attributes
+shirtColor (string)
+age (integer)
+chemistryGrade (integer)
+isHungry (boolean)
+enrolledClasses (array)
+
+Methods
+changeClothes (changes shirtColor)
+celebrateBirthday (adds 1 to age)
+doExtraCredit (adds 2 to chemistryGrade)
+eatLunch (changes isHungry to false)
+dropClass (removes item from enrolledClasses)
