@@ -1,0 +1,15 @@
+Lauren (instance of Student class)
+
+Attributes
+shirtColor = "black"
+age = 17
+chemistryGrade = 89
+isHungry = true
+enrolledClasses = ["Chemistry", "History", "PE", "Art", "English"]
+
+Methods
+changeClothes: shirtColor = "purple"
+celebrateBirthday: age = 18
+doExtraCredit: chemistryGrade = 91
+eatLunch: isHungry = false
+dropClass: enrolledClasses = ["Chemistry", "History", "Art", "English"]
