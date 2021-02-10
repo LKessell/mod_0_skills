@@ -1,0 +1,14 @@
+Mr. Smith's bus (instance of SchoolBus class)
+
+Attributes
+color = "orange"
+doorOpen = true
+numberOfStops = 11
+studentsOnboard = true
+pickupLocations = ["Highland St.", "Mary Rd.", "Lakeview Ave.", "Sparrow Dr."]
+
+repaint: color = "yellow"
+closeDoor: doorOpen = false
+addNewStop: numberOfStops = 12
+dropOff: studentsOnboard = false
+changeRoute: pickupLocations = ["Goldfinch Dr.", "Spiel St.", "Carver Rd.", "Main St."]
